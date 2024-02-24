@@ -69,13 +69,13 @@ owner: {YOUR GITHUB NAME}
 一天你在该项目看到了这样的一个issue:
 
 ```
-我现在拥有xiaochopin.b,有谁想和我交换吗 :)
+我现在拥有littlecatbro.b,有谁想和我交换吗 :)
 ```
 
 你可以回复:
 
 ```
-我拥有coke41water.b,我们可以交换吗?
+我拥有41water.b,我们可以交换吗?
 ```
 
 如果议题发起者回复并同意了你的请求,就可以开始NFD交换了.
@@ -91,6 +91,10 @@ owner: {YOUR GITHUB NAME}
 2.拉取请求(Pull Request)并将该拉取请求链接到本次交换的相关`issue`.
 
 3.等待合并分支.
+
+## 关于
+
+还没写好.
 
 
 
