@@ -41,7 +41,7 @@ owner: {YOUR GITHUB NAME}
 <!-- 声明NFD所有者 -->
 ```
 
-其中`{YOUR GITHUB USERNAME}`应替换为你的GITHUB用户名.
+其中`{YOUR GITHUB USERNAME}`应替换为你的Github用户名.
 
 2.通过`拉取请求`将你的NDF创作提交到主分支上(重要! :)
 
